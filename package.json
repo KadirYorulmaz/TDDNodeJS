@@ -1,0 +1,21 @@
+{
+  "name": "devopsfile",
+  "version": "1.0.0",
+  "description": "Test Driven Development",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TDDNodeJS"
+  },
+  "keywords": [
+    "TDD"
+  ],
+  "author": "Kadir",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
